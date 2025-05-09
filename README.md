@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Projeto Lista de Usuários (Frontend + API Node.js)
+# 👩‍💻 Projeto Lista de Usuários (Frontend + API Node.js)
 
 Este projeto é uma aplicação simples de cadastro de usuários, com frontend em HTML/CSS/JavaScript puro e backend usando Node.js com o framework Express. A aplicação permite listar, adicionar e excluir usuários dinamicamente, armazenando-os temporariamente em memória (sem banco de dados).
 
@@ -109,6 +109,6 @@ Abra [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 👨‍💻 Autor
+## 👩‍💻 Autor
 
 Feito por Juliana Sabioni – focando em aprimoramento de habilidades em frontend e backend com Node.js.
